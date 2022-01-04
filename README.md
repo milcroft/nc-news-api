@@ -1,4 +1,4 @@
-# Example News API
+# Example of News API
 
 ## Background
 
