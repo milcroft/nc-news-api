@@ -1,4 +1,8 @@
+const cors = require('cors');
 const express = require('express');
+const app = express();
+app.use(cors());
+app.options('*', cors());
 
 const { handleCustomErrors } = require('./errors/handleCustomErrors.js');
 const { handlePsqlErrors } = require('./errors/handlePsqlErrors.js');
