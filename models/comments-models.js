@@ -33,7 +33,7 @@ exports.deleteCommentsById = async (comment_id) => {
   if (response.rowCount === 0) {
     return Promise.reject({
       status: 404,
-      msg: 'No Comments',
+      msg: 'non existent ID',
     });
   } else {
     return;
