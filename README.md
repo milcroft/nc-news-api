@@ -148,6 +148,7 @@ A test suite is included in the repository. The default test behavior runs the t
 
 ```
 npm run test
+
 ```
 
 ## Minimum Versions Required
