@@ -6,7 +6,7 @@ The creation of an `API` to mimic a real world backend service which will provid
 <hr>
 
 ## Live Hosted Version of API
-Hosted version of API: <https://example-news-api.herokuapp.com/api>
+Hosted version of API: <https://nc-be-news-api.herokuapp.com/api>
 <hr>
 
 ## Pre setup
